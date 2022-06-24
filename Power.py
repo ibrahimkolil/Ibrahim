@@ -435,13 +435,6 @@ class Main:
 		elif Baloch in ["2", "02"]:
 			print("    Thanks♥️")
 			exit()
-		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/channel/UCNW6oM8GOBzTVKkq3lTaqnw/")
-			print("")
-			time.sleep(2.0)
-			print("\033[1;37m    Checking Approval ")
-			print("")
-			input("\n\033[1;37m Type The Owner Channel \033[1;37m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;32m Welcome To SOMAIL BRAND Public TOOLS")
